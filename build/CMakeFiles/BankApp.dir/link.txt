@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/BankApp.dir/src/main.cpp.o CMakeFiles/BankApp.dir/src/MainDashboard.cpp.o -o BankApp 

@@ -1,0 +1,3 @@
+/home/patrygie/CppProjektyGitHub/BankApp/build/CMakeFiles/BankApp.dir
+/home/patrygie/CppProjektyGitHub/BankApp/build/CMakeFiles/edit_cache.dir
+/home/patrygie/CppProjektyGitHub/BankApp/build/CMakeFiles/rebuild_cache.dir
